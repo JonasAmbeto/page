@@ -1,0 +1,18 @@
+div {
+ color:yellow;background-color:gray;
+ }
+span {
+ color:white;
+ }
+img {
+ transform: rotate();
+ height: 100px;
+ width: 150px;
+} 
+
+body {
+ text-align: center;
+}
+.coupon {
+ border: solid;
+}
